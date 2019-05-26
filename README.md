@@ -30,7 +30,7 @@ The goal of this project is to apply unsupervised learning techniques to identif
 The data used in this project is real-life data provided by a partner of Udacity. As this data is confidential, I had to anonymize it. Among other things, all references to the company and all column names were removed. Without this context, the content of the data is meaningless.
 
 
-## Deep Learning: Image Classifier
+## Deep Learning: Image Classifier Application
 
 *Originally uploaded in December 2018*
 

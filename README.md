@@ -1,4 +1,4 @@
-# Course Projects for Udacity's Data Scientist Nanodegree - Term 1
+# Course Projects for Udacity's Data Scientist Nanodegree
 
 This repository contains (updated versions of) my course projects for the first term of [Udacity's Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025). This term includes three courses:
 
